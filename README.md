@@ -1,3 +1,5 @@
+### This application ddress the following:-
+
 1. Should allow users to signup and login to their accounts
 2. Users should be able to create notes with some content
 3. Each note can also have an uploaded file as an attachment
@@ -7,3 +9,5 @@
 7. App should be served over HTTPS on a custom domain
 8. The backend APIs need to be secure
 9. The app needs to be responsive
+
+## Technologies & Services
