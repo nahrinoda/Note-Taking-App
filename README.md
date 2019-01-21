@@ -24,3 +24,5 @@
 11. [Stripe](https://stripe.com/ca) for processing credit card payments
 12. [Seed](https://seed.run/) for automating Serverless deployments
 13. [Netlify](https://www.netlify.com/) for automating React deployments
+
+test 
