@@ -25,4 +25,3 @@
 12. [Seed](https://seed.run/) for automating Serverless deployments
 13. [Netlify](https://www.netlify.com/) for automating React deployments
 
-test 
