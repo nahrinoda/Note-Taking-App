@@ -41,7 +41,7 @@ functions:
   create:
     handler: create.main
     events:
-      - htpp:
+      - http:
           path: notes
           method: post
           cors: true
@@ -53,7 +53,7 @@ functions:
     # - method: GET request
     handler: get.main
     events:
-      - htpp:
+      - http:
           path: notes/{id}
           method: get
           cors: true
